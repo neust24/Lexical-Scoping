@@ -1,4 +1,3 @@
-
 makeCacheMatrix <- function(x = matrix()) {  ##define the argument with model matrix
         i <- NULL  ##the value of matrix inverse
         set <- function(y) { ##assign a new variable with function(y)
